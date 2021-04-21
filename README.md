@@ -6,4 +6,4 @@
 
 
 
-[Take a look](other_file.md)
+[Take a look](https://challenges-connect-web.vercel.app/)
